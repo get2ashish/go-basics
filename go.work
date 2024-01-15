@@ -1,0 +1,14 @@
+go 1.21.5
+
+use (
+	./arrays-go
+	./bank-application
+	./dynamic-slices
+	./functions-deepdive
+	./go-routines
+	./investment-calculator
+	./maps
+	./pointers
+	./structs
+	./usung-make
+)
